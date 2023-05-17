@@ -77,6 +77,6 @@ const Thing = {
 export default {
   component: Thing,
   iconUrl: "http://localhost:3000/swift-square.svg",
-  label: "Hello",
+  label: "dyGraphs demo",
   moduleName: "dynamic-module-0",
 };
